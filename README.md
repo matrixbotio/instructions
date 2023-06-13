@@ -1,6 +1,6 @@
 ---
 description: https://matrixbot.io
-cover: ru/broken-reference
+cover: .gitbook/assets/preview2.jpg
 coverY: 0
 ---
 
