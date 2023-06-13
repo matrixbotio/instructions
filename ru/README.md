@@ -1,116 +1,96 @@
----
-description: https://matrixbot.io
-cover: broken-reference
-coverY: 0
----
+# 🤖 Dashboard страница мониторинга
 
-# MatrixBot presentation (eng)
+{% embed url="https://youtu.be/iyC1Qrg3CsE" %}
 
-### UBER in the world of trading. Uniqueness
+#### Верхняя строка
 
-There are huge earning opportunities in the world of cryptocurrencies, but many people just find it hard to get started. Our `Matrixbot` platform is changing that! We have developed an innovative platform to make it easy and fun to create, share cryptocurrency bots and earn passive income. Our product is based on the high volatility of cryptocurrencies and the most profitable algorithm that combines mathematics, probability theory, trading tools and the ability to integrate with artificial intelligence. By researching all existing platforms with trading bots, we have improved working ideas, maximized the profitability of bots and added our own know-how. We are the UBER of the world of trading, bringing together professional and new traders in one place. Bots earn regardless of whether the cryptocurrency market is growing or falling. To support the project, a native [**MTXB**](https://matrixbot.io/token) token has been issued.
+![](<.gitbook/assets/image (8).png>)
 
-### Problem
+$100.88  - Баланс аккаунта на Matrixbot\
+1              - Количество активных ботов\
+$202.44  - Общий профит ботов за выбранный интервал\
+PNL         - Текущее состояние всех позиций, будет добавлено в следующих версиях\
+\-90%+     - Масштаб отображения ботов
 
-With the growing interest in cryptocurrencies and the increase in the volume of assets, people investing in cryptocurrencies face high risks and uncertainty about the future. Easy and profitable ways to allocate crypto assets are limited, and many expect significant returns from crypto investments. Our platform offers a solution for these users, allowing them to earn passive income through cryptocurrency bots.
+#### Иконографика бота
 
-### The win-win solution
+#### ![](<.gitbook/assets/image (4).png>)
 
-We offer a builder for creating trading bots, a cloud platform for their launch and convenient monitoring with open statistics. Users can choose ready-made bots on the marketplace and customize them to their requirements. A community is being created on the platform to share knowledge, signals and value-added services. Later it is planned to add the possibility of trust management.
+Треугольник зеленый - Long бот\
+Треугольник красный - Short бот\
+Название бота, биржа\
+Торговая пара - по клику откроется график на бирже.&#x20;
 
-### For whom?
+#### Индикатор ордеров и цены
 
-* **For experienced traders.** The opportunity to receive additional income from the sale on the Market of trading bots created on the Matrixbot platform, as well as their services. Monetize your experience and creativity in crypto trading.
-* **For starters.** Quick start and low threshold for entry into crypto trading. A simple and understandable choice of trading bots on the market based on real statistics of their work.&#x20;
-* **For crypto exchanges**. Way to increase trading volumes, customer traffic.
-* **For everyone.** Passive and high income that does not require constant attention. Bots are earning for you 24/7 while you're doing your own thing.  &#x20;
+![](<.gitbook/assets/image (9).png>)
 
-### Why is the problem not solved before us? And what's with the math.
+Количество сегментов соответствует количеству ордеров бота `Orders`. \
+Зеленые сегменты - не исполненные ордера.\
+Красные - исполненные.\
+Длинна сегментов - расстояние между ордерами `ARC`.\
+Белый маркер - расположение текущего ордера take profit.\
+Желтый - расположение текущей цены.\
+Процент - профит/убыток по исполненным ордерам при текущей цене.&#x20;
 
-<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+![](<.gitbook/assets/image (7).png>)
 
-Existing solutions are fragmented and unsatisfactory. Some effective scripts work only on local devices, while cloud platforms with bots have primitive settings and low efficiency. As a result, we decided to combine our professional knowledge and experience in trading, cryptocurrencies and IT in order to create a new solution that would meet the needs of users and give them the opportunity to receive high income.&#x20;
+49.37 GTC - Депозит бота `limit`, по клику депозит будет показан в usd эквиваленте. \
+16:56 - Время текущего круга. \
+$5.23 - Общий доход бота.\
+0.45% - Общая доходность бота в процентах.
 
-The secret of the high profitability of our bots is in the use of the key property of crypto assets - extremely high volatility. Our trading bots are based on a grid algorithm, which we have perfected with a large number of custom settings, automation, as well as our own know-how. The bot works at a speed and amount of computation that is inaccessible to a human. A large number of settings allows you to create completely different strategies from extremely profitable and risky, to low-risk "turn on and forget".
+![](<.gitbook/assets/image (11).png>)
 
-### Why will we succeed?
+Старт бота. После ошибки бот по кнопке старт запустится с последнего состояния.
 
-Thanks to our experience and previous projects, we have a deep understanding of the market and user needs. We have developed a unique infographic dashboard for bots that our competitors don't have. Our infrastructure is based on advanced technologies that can withstand high loads, and we have also developed a balanced economy that provides a stable income for the platform and its users.
+Стоп. Два режима:
 
-### Business model
+\- `Soft stop` первое нажатие. Мягкая остановка, бот дождется исполнения take profit ордера и остановится.\
+\- `Hard stop` повторное нажатие. Бот будет остановлен как есть, ордера по выбору пользователя могут остаться на бирже или быть убраны.&#x20;
 
-We use several options to monetize our services.
+Так же кнопка стоп производит очистку ошибки, если бот в режиме `error` и не планируется возобновлять круг с того же места. После сброса, бот начнет новый круг после старта. &#x20;
 
-**15% fee of the bots profit.**\
-This option allows you to quickly start trading without investments, test mechanisms and calculations with real profit.
+Меню. Открытие дополнительного меню.
 
-**Subscription $30 per month.** \
-For regular users of the platform for each connected exchange or market on the exchange.
+#### Дополнительное меню
 
-**10% fee per transaction on the marketplace.** \
-We take a commission from each sale of bots or services on the `Market`.
+&#x20;![](<.gitbook/assets/image (2).png>)
 
-**VIP services from 1000$.** Dedicated servers for independent trading, personal support, free signals and more.
+`Edit` редактирование бота\
+`Clone` клонирование бота\
+`Delete` удаление\
+\
+30 days - Выбор временного периода для выписки по кругам. \
+6.45% - Общий доход в % за выбранный период, по клику переход на страницу статистики.\
+$5.23 - Общий доход в долларах за выбранный период.\
+\
+Список закрытых кругов. \
+Порядковый номер круга, торговая пара, длительность круга, количество исполненных ордеров и профит в долларах. Если есть текущий незакрытый круг, то его профит равен нулю. Каждый круг можно кликнуть для просмотра деталей.\
+\
+![](<.gitbook/assets/image (13).png>)   \
+\
+Order ID присвоенный биржей, тип ордера, сумма и цена по которой он был выставлен.
 
-[**MTXB**](https://matrixbot.io/token) **token.** The tokenomics we developed integrates `MTXB` into the platform and serves to support the project, and also plays a role in the overall capitalization.
+![](<.gitbook/assets/image (6).png>) \
+&#x20;\
+Если круг не закрыт, open orders показывает размещенные, но не исполненные ордера.
 
-<mark style="color:red;">**Important**</mark>. Crypto assets of clients are located on their own accounts on the exchange. Our platform only have access to two operations: buy/sell through the API provided to us by the client. Thus, we do not take responsibility for the custody of customer funds.      &#x20;
+#### Статусная строка бота
 
-### Marketing
+![](<.gitbook/assets/image (10).png>)
 
-The initial promotion of the project is planned through the community of amateur traders, participation in IT events. Clients from this group are the first target, so this is our network of contacts and we have already stated a serious interest in the project and positive expectations. Many became early investors in the `MTXB` token.
+Отображает текущее состояние бота:
 
-Next, we plan to focus on positive profitability statistics and use growth and customer acquisition tools based on the initial base.  Free start periods, rewards for attracting new customers, airdrops, etc.
-
-Finally we will connect content marketing to build long-term relationships with the target audience, create and support our own social network pages, invest in ads on related informational resources.
-
-### Competitors
-
-We conduct constant monitoring of our competitors. The idea of ​​the project was born in the process of working with other services and the obviousness of their imperfection, the lack of the necessary functionality, which significantly increases the profitability of trading. There are two main offers on the market for running trading bots: buying ready-made bots to run locally on your device and using cloud services.
-
-<table data-card-size="large" data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><strong>Bots-applications</strong></td><td><strong>Pros</strong><br>Effective and narrowly focused functionality, could be written by a specialist for a specific strategy. <br></td><td><strong>Cons</strong> <br>Expensive one-time purchase "pig in a poke", works on one device, binds to the operating system. A thing in itself, not always updated according to the market.   </td></tr><tr><td><strong>Bot platforms</strong></td><td><strong>Pros</strong><br>Work 24/7 on any device, a choice of different ready-made strategies, a community, regular updates. Acceptable subscription price.</td><td><strong>Cons</strong><br>Bots on platforms work usually slower than individually installed ones. Usually less profitable, less flexible configurations.</td></tr></tbody></table>
-
-### Comparison of popular services
-
-* <mark style="color:red;">3commas.io</mark> - a large selection of strategies, a large community. None of the strategies has enough settings to maximise profits.  Lots of restrictions.
-* <mark style="color:red;">Revenue</mark> - is one of the most efficient bots but has a terrible interface. There are no improvements.
-* <mark style="color:red;">Kryll, Haasonline</mark> - interesting but overcomplicated bot builders.
-* <mark style="color:red;">Cryptohopper</mark> - many options are declared, but the real profitability is hidden.
-* <mark style="color:red;">Cryptorg</mark> - poor functionality.
-* <mark style="color:red;">Apitrade</mark> - the maximum number of functions is declared, a very incomprehensible interface, it is extremely difficult to start trading.\
-  \
-  `Matrixbot` will have more functionality than most platforms and will focus on maximizing the profitability of bots. Great importance is given to the simplicity and convenience of the UI, in particular to monitoring the work of bots (a cursory glance anywhere on any device is enough). There are several killer features in the plans. We are also making an open architecture for connecting exchanges or trading services to our platform, there is no such offer on the market.
-
-### **Team and partners**
-
-The core of a team is 5-6 developers, the infrastructure is flexible, scalable, with an emphasis on high load and speed. AWS Service Provider, Operated by an Amazon-certified Partner.
-
-### Financial Forecast&#x20;
-
-We plan to enter the market in Q2-Q3 2023. After attracting the first 50 customers, our platform will generate net profit. During the first year of the platform's operation, we plan to attract 3,000-5,000 customers, and by the third year - 100,000 customers. Our clients will also be able to earn money by using and selling trading bots.
-
-### **Current stage**
-
-Beta, closed testing. The minimum required functionality is working, undergoing closed testing, and work has begun on setting up a production loop for a release candidate.
-
-### ROADMAP
-
-**1Q  2023**\
-Build production environment\
-Start beta-testing
-
-**2Q  2023**\
-Bybit integration\
-Binance Futures integration\
-Open `Marketplace`\
-Finish beta-testing
-
-**3Q  2023**\
-Start Marketing program\
-Start adding planned killer-features
-
-**4Q  2023**\
-New CEX, DEX integration
-
-**2024**\
-AI, NFT, DeFi, Web 3.0 integration
+{% hint style="info" %}
+* Stopped - остановлен
+* Initialization - подготовка к старту бота
+* Waiting start - проверка условий старта по индикаторам. Если условия не выполнены, то отображается значение блокирующего индикатора.  \
+  ![](<.gitbook/assets/image (12).png>)
+* Placing grid - размещение сетки
+* Monitoring  - режим ожидания исполнения ордеров
+* Reset grid - переустановка сетки, если цена ушла более чем задано в `offest`
+* Placing order - размещение очередных ордеров
+* Lap finished - сработал take profit ордер, удаление оставшихся ордеров
+* Error - бот остановлен с ошибкой, по клику вывод описания ошибки. Кнопка стоп производит очистку ошибки, если бот в режиме `error` и не планируется возобновлять круг с того же места. После сброса, бот начнет новый круг после старта. &#x20;
+{% endhint %}
