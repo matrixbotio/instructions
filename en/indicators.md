@@ -8,7 +8,7 @@ Entry indicators are configured on the bot editing page [https://matrixbot.io/ed
 
 <div align="left">
 
-<figure><img src=".gitbook/assets/image.png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (12).png" alt="" width="375"><figcaption></figcaption></figure>
 
 </div>
 
@@ -30,7 +30,7 @@ Just like with RSI, it is important to use CCI in combination with other indicat
 
 <div align="left">
 
-<figure><img src=".gitbook/assets/image (14).png" alt="" width="289"><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (13).png" alt="" width="289"><figcaption></figcaption></figure>
 
 </div>
 
@@ -46,7 +46,7 @@ Moving averages can also be used to determine support and resistance levels. For
 
 <div align="left">
 
-<figure><img src=".gitbook/assets/image (15).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (14).png" alt="" width="375"><figcaption></figcaption></figure>
 
 </div>
 
@@ -64,7 +64,7 @@ In the context of automated trading, Bollinger Bands can be used to generate tra
 
 <div align="left">
 
-<figure><img src=".gitbook/assets/image (16).png" alt="" width="320"><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (15).png" alt="" width="320"><figcaption></figcaption></figure>
 
 </div>
 
@@ -74,7 +74,7 @@ ADX (Average Directional Index) is a technical indicator developed by J. Welles 
 
 <div align="left">
 
-<figure><img src=".gitbook/assets/image (17).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (16).png" alt="" width="375"><figcaption></figcaption></figure>
 
 </div>
 
@@ -93,9 +93,9 @@ The volume indicator typically returns a numerical value representing the tradin
 OPEN, CLOSE, HIGH, and LOW levels are key elements of price chart analysis and can be used as indicators or in combination with other indicators.
 
 1. HIGH and LOW levels can indicate areas of resistance and support.
-	* **Trends**: CLOSE levels can be used to determine the overall trend. For example, a sequence of increasing CLOSE levels indicates an uptrend.
-	* **Reversals**: Candlestick patterns such as a hammer or a doji star use these levels to identify potential reversal points.
+   * **Trends**: CLOSE levels can be used to determine the overall trend. For example, a sequence of increasing CLOSE levels indicates an uptrend.
+   * **Reversals**: Candlestick patterns such as a hammer or a doji star use these levels to identify potential reversal points.
 2. In combination with other indicators:
-	* **Moving Average (MA) crossovers**: Price level crossovers with moving averages can signal a potential trend change.
-	* **In conjunction with volume indicators**: Trading volume at HIGH and LOW levels can confirm the strength or weakness of a trend.
-	* **Convergence/divergence with indicators like RSI or MACD**: Differences between price behavior (e.g., new highs or lows) and indicator readings can indicate potential convergence or divergence, which can be a signal for a trend change.
+   * **Moving Average (MA) crossovers**: Price level crossovers with moving averages can signal a potential trend change.
+   * **In conjunction with volume indicators**: Trading volume at HIGH and LOW levels can confirm the strength or weakness of a trend.
+   * **Convergence/divergence with indicators like RSI or MACD**: Differences between price behavior (e.g., new highs or lows) and indicator readings can indicate potential convergence or divergence, which can be a signal for a trend change.
