@@ -1,5 +1,11 @@
 # Как купить MTXB токен на PancakeSwap
 
+{% embed url="https://youtu.be/c777HUY_fDM" %}
+
+Адрес контракта MTXB: 0x3A146E3EFB59567366B0C94FFFA97273736ADBB1
+
+### Пошаговая инструкция:
+
 1. Установите кошелек, если еще не установлен:
 
 * https://trustwallet.com
