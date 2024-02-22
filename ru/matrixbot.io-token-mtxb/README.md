@@ -8,9 +8,15 @@
 
 Мы ежемесячно выкупаем токены с рынка от доли прибыли проекта, а также предлагаем выгодные условия для стейкинга и лока токенов в пуле ликвидности, чтобы получать дополнительную доходность.
 
+{% content-ref url="kak-bystro-kupit-mtxb.md" %}
+[kak-bystro-kupit-mtxb.md](kak-bystro-kupit-mtxb.md)
+{% endcontent-ref %}
+
+{% content-ref url="kak-kupit-mtxb-na-pancakeswap.md" %}
+[kak-kupit-mtxb-na-pancakeswap.md](kak-kupit-mtxb-na-pancakeswap.md)
+{% endcontent-ref %}
 
 
-## Подробнее про токен
 
 <figure><img src="../.gitbook/assets/page11_tokenomics.png" alt=""><figcaption></figcaption></figure>
 
@@ -37,7 +43,7 @@
 
 ## Полезные ссылки по токену MTXB
 
-<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>BLOCK EXPLORER</strong></td><td>позволяет отслеживать транзакции MTXB</td><td></td><td><a href="../.gitbook/assets/kandinsky-download-1708610718648.png">kandinsky-download-1708610718648.png</a></td><td><a href="https://bscscan.com/token/0X3A146E3EFB59567366B0C94FFFA97273736ADBB1">https://bscscan.com/token/0X3A146E3EFB59567366B0C94FFFA97273736ADBB1</a></td></tr><tr><td><strong>PANCAKESWAP</strong></td><td>DEX биржа для обмена токенов MTXB</td><td></td><td></td><td><a href="https://pancakeswap.finance/swap?outputCurrency=0x3A146E3EFB59567366B0C94FFFA97273736ADBB1">https://pancakeswap.finance/swap?outputCurrency=0x3A146E3EFB59567366B0C94FFFA97273736ADBB1</a></td></tr><tr><td><strong>CONTRACT SOURCE</strong></td><td>исходный код контракта MTXB</td><td></td><td></td><td><a href="https://github.com/matrixbotio/token">https://github.com/matrixbotio/token</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>BLOCK EXPLORER</strong></td><td>позволяет отслеживать транзакции MTXB</td><td></td><td><a href="../.gitbook/assets/explorer.jpg">explorer.jpg</a></td><td><a href="https://bscscan.com/token/0X3A146E3EFB59567366B0C94FFFA97273736ADBB1">https://bscscan.com/token/0X3A146E3EFB59567366B0C94FFFA97273736ADBB1</a></td></tr><tr><td><strong>PANCAKESWAP</strong></td><td>DEX биржа для обмена токенов MTXB</td><td></td><td><a href="../.gitbook/assets/pancake.jpg">pancake.jpg</a></td><td><a href="https://pancakeswap.finance/swap?outputCurrency=0x3A146E3EFB59567366B0C94FFFA97273736ADBB1">https://pancakeswap.finance/swap?outputCurrency=0x3A146E3EFB59567366B0C94FFFA97273736ADBB1</a></td></tr><tr><td><strong>CONTRACT SOURCE</strong></td><td>исходный код контракта MTXB</td><td></td><td><a href="../.gitbook/assets/github.jpg">github.jpg</a></td><td><a href="https://github.com/matrixbotio/token">https://github.com/matrixbotio/token</a></td></tr></tbody></table>
 
 ## Полезные ссылки по платформе MatrixBot
 
