@@ -1,6 +1,6 @@
 # Table of contents
 
-* [🤖 Dashboard страница мониторинга](README.md)
+* [🤖 Dashboard: страница мониторинга](README.md)
 * [⚙ Создание, редактирование бота](sozdanie-redaktirovanie-bota.md)
 * [MatrixBot.io Token (MTXB)](matrixbot.io-token-mtxb/README.md)
   * [Как купить MTXB на PancakeSwap](matrixbot.io-token-mtxb/kak-kupit-mtxb-na-pancakeswap.md)
