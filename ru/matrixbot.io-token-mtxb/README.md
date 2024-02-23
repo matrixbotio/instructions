@@ -12,8 +12,8 @@
 [kak-bystro-kupit-mtxb.md](kak-bystro-kupit-mtxb.md)
 {% endcontent-ref %}
 
-{% content-ref url="kak-kupit-mtxb-na-pancakeswap.md" %}
-[kak-kupit-mtxb-na-pancakeswap.md](kak-kupit-mtxb-na-pancakeswap.md)
+{% content-ref url="kak-kupit-mtxb-na-pancakeswap-+video.md" %}
+[kak-kupit-mtxb-na-pancakeswap-+video.md](kak-kupit-mtxb-na-pancakeswap-+video.md)
 {% endcontent-ref %}
 
 
@@ -51,8 +51,8 @@
 [kak-bystro-kupit-mtxb.md](kak-bystro-kupit-mtxb.md)
 {% endcontent-ref %}
 
-{% content-ref url="kak-kupit-mtxb-na-pancakeswap.md" %}
-[kak-kupit-mtxb-na-pancakeswap.md](kak-kupit-mtxb-na-pancakeswap.md)
+{% content-ref url="kak-kupit-mtxb-na-pancakeswap-+video.md" %}
+[kak-kupit-mtxb-na-pancakeswap-+video.md](kak-kupit-mtxb-na-pancakeswap-+video.md)
 {% endcontent-ref %}
 
 ## Полезные ссылки по токену MTXB
