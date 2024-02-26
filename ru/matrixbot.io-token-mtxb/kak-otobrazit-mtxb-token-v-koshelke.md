@@ -1,6 +1,8 @@
 # Как отобразить MTXB токен в кошельке
 
-## Trust Wallet
+{% embed url="https://www.youtube.com/watch?v=aRKEK2X4mV0" %}
+
+## Инструкция по Trust Wallet
 
 1. Откройте приложение Trust Wallet:
 
