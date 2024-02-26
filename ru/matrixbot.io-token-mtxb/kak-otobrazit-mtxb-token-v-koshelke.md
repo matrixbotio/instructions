@@ -1,42 +1,24 @@
 # Как отобразить MTXB токен в кошельке
 
-{% embed url="https://www.youtube.com/watch?v=aRKEK2X4mV0" %}
+Адрес контракта:
+
+```
+0x3A146E3EFB59567366B0C94FFFA97273736ADBB1
+```
 
 ## Инструкция по Trust Wallet
 
-1. Откройте приложение Trust Wallet:
+Пример на видео как добавить токен в кошелек
 
-![telegram-cloud-photo-size-2-5316941231097496333-y](https://user-images.githubusercontent.com/22348978/211079072-308d4fb4-d3fb-4ca4-9eeb-e022820b872a.jpg)
+{% embed url="https://www.youtube.com/watch?v=aRKEK2X4mV0" %}
 
-1. Нажмите на кнопку конфигурации токенов в правом верхнем углу:
+Инструкция поэтапно:
 
-![telegram-cloud-photo-size-2-5316941231097496334-y](https://user-images.githubusercontent.com/22348978/211079265-bfd1108a-3db5-4ee5-a3ac-8b18be1d801c.jpg)
+{% embed url="https://docs.google.com/presentation/d/12tBzMEntNBNzQfCg60Yc4DDQY1TWMy2mPIDDzeMhnFE/edit?usp=sharing" %}
 
-1. Нажмите добавить (+):
+## Инструкция по расширению Metamask
 
-![telegram-cloud-photo-size-2-5316941231097496353-y\_partial](https://user-images.githubusercontent.com/22348978/211079427-5a391a39-30e6-419c-a0c0-27e3fa159c57.jpg)
-
-1. Выберите сеть: BNB Smart Chain:
-
-![telegram-cloud-photo-size-2-5316941231097496436-y\_partial](https://user-images.githubusercontent.com/22348978/211079803-be054ef6-a5f3-4edd-89c6-c91b0b164db0.jpg)
-
-![telegram-cloud-photo-size-2-5316941231097496437-y](https://user-images.githubusercontent.com/22348978/211079823-fd150f8c-65bc-48a3-ab2a-358e161e77f9.jpg)
-
-1. Вставьте адрес контракта токена MTXB: 0x3A146E3EFB59567366b0C94fFfa97273736Adbb1
-
-![telegram-cloud-photo-size-2-5316941231097496480-y](https://user-images.githubusercontent.com/22348978/211080433-961db6f5-c6a3-44b0-a888-eda4f577d407.jpg)
-
-1. Нажмите сохранить:
-
-![telegram-cloud-photo-size-2-5316941231097496483-y](https://user-images.githubusercontent.com/22348978/211080708-acf5932a-b141-4bb0-9e33-c0bfdcaf61ac.jpg)
-
-1. После сохранения MTXB токен отобразится в списке:
-
-![telegram-cloud-photo-size-2-5316941231097496666-y](https://user-images.githubusercontent.com/22348978/211081861-086f0295-2d49-4af4-bbbe-c95a3e800ebd.jpg)
-
-## Metamask
-
-1. Откройте приложение Metamask в вашем браузере и введите пароль:
+1. Откройте приложение Metamask в вашем браузере:
 
 ![image](https://user-images.githubusercontent.com/22348978/211082288-2e90b160-9957-452d-8397-b69e76dccbc2.png)
 
