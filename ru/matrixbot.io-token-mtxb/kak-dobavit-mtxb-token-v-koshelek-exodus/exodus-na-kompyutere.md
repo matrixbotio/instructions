@@ -1,16 +1,20 @@
-# Как добавить MTXB токен в кошелек Exodus
+---
+description: Инструкция как добавить токен MTXB в кошелек Exodus
+---
+
+# Exodus на компьютере
 
 1. В клиенте Exodus для компьютера перейди в раздел "Settings":
 
-<figure><img src="../.gitbook/assets/1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/1.png" alt=""><figcaption></figcaption></figure>
 
 2. Далее на вкладке "Assets" в выпадающем списке выбери "Add custom token":
 
-<figure><img src="../.gitbook/assets/2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/2.png" alt=""><figcaption></figcaption></figure>
 
 3. Выбери сеть "BNB Smart Chain", нажми "Search":
 
-<figure><img src="../.gitbook/assets/3.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/3.png" alt=""><figcaption></figcaption></figure>
 
 4. Введи адрес смарт-контракта:
 
@@ -18,7 +22,7 @@
 0x3a146e3efb59567366b0c94fffa97273736adbb1
 ```
 
-<figure><img src="../.gitbook/assets/4.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/4.png" alt=""><figcaption></figcaption></figure>
 
 5. Выбери "MatrixBot.io Token" и нажми "Add token".
 
