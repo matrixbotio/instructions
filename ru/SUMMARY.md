@@ -9,4 +9,5 @@
   * [Как добавить MTXB токен в кошелек Exodus](matrixbot.io-token-mtxb/kak-dobavit-mtxb-token-v-koshelek-exodus/README.md)
     * [Exodus на Android](matrixbot.io-token-mtxb/kak-dobavit-mtxb-token-v-koshelek-exodus/exodus-na-android.md)
     * [Exodus на компьютере](matrixbot.io-token-mtxb/kak-dobavit-mtxb-token-v-koshelek-exodus/exodus-na-kompyutere.md)
+    * [Exodus веб-расширение](matrixbot.io-token-mtxb/kak-dobavit-mtxb-token-v-koshelek-exodus/exodus-veb-rasshirenie.md)
 * [🔎 Индикаторы](indikatory.md)
