@@ -1,4 +1,4 @@
-# Как купить MTXB токен на PancakeSwap
+# 🤖 Как купить MTXB на PancakeSwap (+видео)
 
 {% embed url="https://youtu.be/c777HUY_fDM" %}
 
