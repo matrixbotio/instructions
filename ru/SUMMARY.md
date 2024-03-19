@@ -1,7 +1,9 @@
 # Table of contents
 
 * [🤖 Dashboard: страница мониторинга](README.md)
-* [⚙️ Создание, редактирование бота](sozdanie-redaktirovanie-bota.md)
+* [⚙️ Создание, редактирование бота](sozdanie-redaktirovanie-bota/README.md)
+  * [🔑 Добавление API ключей биржи](sozdanie-redaktirovanie-bota/dobavlenie-api-klyuchei-birzhi/README.md)
+    * [Создаем API ключ на Bybit](sozdanie-redaktirovanie-bota/dobavlenie-api-klyuchei-birzhi/sozdaem-api-klyuch-na-bybit.md)
 * [⚪ MatrixBot.io Token (MTXB)](matrixbot.io-token-mtxb/README.md)
   * [🪙 Как быстро купить MTXB](matrixbot.io-token-mtxb/kak-bystro-kupit-mtxb.md)
   * [🤖 Как купить MTXB на PancakeSwap (+видео)](matrixbot.io-token-mtxb/kak-kupit-mtxb-na-pancakeswap-+video.md)
@@ -10,4 +12,4 @@
     * [📱 Exodus на Android](matrixbot.io-token-mtxb/kak-dobavit-mtxb-token-v-koshelek-exodus/exodus-na-android.md)
     * [💻 Exodus на компьютере](matrixbot.io-token-mtxb/kak-dobavit-mtxb-token-v-koshelek-exodus/exodus-na-kompyutere.md)
     * [🌐 Exodus веб-расширение](matrixbot.io-token-mtxb/kak-dobavit-mtxb-token-v-koshelek-exodus/exodus-veb-rasshirenie.md)
-* [⚙️ Торговые индикаторы](torgovye-indikatory.md)
+* [⚙️ Торговые индикаторы](indikatory.md)
