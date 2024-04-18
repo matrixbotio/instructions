@@ -35,7 +35,7 @@ description: >-
 * стоит настроить аккуратный вход в позицию на основе [технических индикаторов](../indikatory.md).
 * **cover** для SHORT бота можно рассчитать на основе cover LONG бота следующим образом:
 
-<figure><img src="../.gitbook/assets/formula.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/formula.jpg" alt=""><figcaption></figcaption></figure>
 
 Пример: пусть cover для LONG бота у тебя 20%, тогда cover для SHORT бота будет = 20% / (100%-20%) = 25%. Это происходит из-за того, что проценты сверху вниз и снизу вверх - разные проценты, просто делаем их пересчет.
 
