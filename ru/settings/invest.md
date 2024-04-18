@@ -7,6 +7,8 @@ description: >-
 
 # Что делать при уходе в инвест?
 
+<figure><img src="../.gitbook/assets/invest.png" alt="боты в инвесте" width="375"><figcaption></figcaption></figure>
+
 Чтобы выйти из инвеста, для начала проанализируем почему бот в него попал.
 
 #### Возможные причины:
