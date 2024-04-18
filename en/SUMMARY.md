@@ -9,4 +9,4 @@
 
 ## Settings examples
 
-* [What should you do if your bot goes into "investment" mode?](settings-examples/what-should-you-do-if-your-bot-goes-into-investment-mode.md)
+* [What should you do if your bot goes into "investment" mode?](settings-examples/bots-in-investment-mode.md)
