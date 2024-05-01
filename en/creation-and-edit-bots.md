@@ -1,4 +1,4 @@
-# ⚙ Creation and edit bots
+# ⚙️ Creation and edit bots
 
 {% embed url="https://youtu.be/7jfVoK4MFk8" %}
 
