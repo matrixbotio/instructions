@@ -6,17 +6,17 @@ coverY: 0
 
 # MatrixBot presentation (eng)
 
-### Smart bots work while you relax&#x20;
+### Smart bots work while you relax
 
 <figure><img src=".gitbook/assets/woman-working-laptop.jpg" alt=""><figcaption></figcaption></figure>
 
 There are huge opportunities for earning money in the world of cryptocurrencies, but for many it is not clear how to start. Our platform [<mark style="color:green;">**Matrixbot**</mark>](https://matrixbot.io) is changing that! We have developed an innovative platform that allows you to launch trading bots created by experienced traders or on your own in a convenient bot builder in two clicks. While you are resting, bots earn money, and knowledge and experience are monetized. We are plan to make <mark style="color:green;">**Matrixbot**</mark> <mark style="color:green;">**Market**</mark> the largest platform for the exchange of bots, strategies and services in the field of crypto trading. To support the project, a native token was issued [<mark style="color:green;">**MTXB**</mark>](https://matrixbot.io/token).
 
-### Problem. Assets can work, but a mentor is needed.&#x20;
+### Problem. Assets can work, but a mentor is needed.
 
 <figure><img src=".gitbook/assets/real-stock.jpg" alt=""><figcaption></figcaption></figure>
 
-Interest in cryptocurrencies and investment volumes are constantly growing. Easy and profitable ways to place crypto assets are limited, high volatility creates fear. At the same time, investors expect significant profit from cryptocurrency investments. Our platform offers a solution for these users, allowing them to earn passive income through bots, advisory and education services.&#x20;
+Interest in cryptocurrencies and investment volumes are constantly growing. Easy and profitable ways to place crypto assets are limited, high volatility creates fear. At the same time, investors expect significant profit from cryptocurrency investments. Our platform offers a solution for these users, allowing them to earn passive income through bots, advisory and education services.
 
 ### The win-win solution
 
@@ -31,11 +31,7 @@ We offer a cloud platform to run trader-trained or AI-trained trading bots. And 
 
 ### Why is the problem not solved before us and how do we use mathematics?
 
-<div align="left">
-
-<figure><img src=".gitbook/assets/home-math.jpg" alt="" width="375"><figcaption></figcaption></figure>
-
-</div>
+{% embed url="https://youtu.be/aHi4Mdne__4?si=pPng477HyKhaKHZY" %}
 
 We have found a way to effectively use the problem of cryptocurrencies - high volatility. Our product is based on the most profitable algorithm that combines mathematics, probability theory, trading tools and the ability to integrate with AI. By researching all existing platforms with trading bots, we have improved working ideas, maximized the profitability of bots and added our own know-how. Bots earn regardless of whether the market rises or falls.
 
@@ -45,7 +41,7 @@ We have found a way to effectively use the problem of cryptocurrencies - high vo
 
 Existing solutions are fragmented and unsatisfactory. Some effective scripts work only on local devices, while cloud platforms with bots have primitive settings and low efficiency. We combined our knowledge and experience in trading, cryptocurrencies and IT to create a new solution that would meet the needs of users and give them the opportunity to receive high income.
 
-Our trading bots are based on a grid algorithm, which we have perfected with a large number of settings (mathematical parameters), automation, as well as our own know-how. The bot works at a speed and amount of computation that a human cannot. A large variation of settings allows you to create completely different strategies from extremely profitable, risky, to low-risk "turn on and forget".&#x20;
+Our trading bots are based on a grid algorithm, which we have perfected with a large number of settings (mathematical parameters), automation, as well as our own know-how. The bot works at a speed and amount of computation that a human cannot. A large variation of settings allows you to create completely different strategies from extremely profitable, risky, to low-risk "turn on and forget".
 
 </details>
 
@@ -102,8 +98,6 @@ We conduct constant monitoring of our competitors. The idea of ​​the project
 
 <summary>Comparison of popular services</summary>
 
-
-
 * <mark style="color:red;">3commas.io</mark> - a large selection of strategies, a large community. None of the strategies has enough settings to maximise profits. Lots of restrictions.
 * <mark style="color:red;">Revenue</mark> - is one of the most efficient bots but has a terrible interface. There are no improvements.
 * <mark style="color:red;">Kryll, Haasonline</mark> - interesting but overcomplicated bot builders.
@@ -113,47 +107,42 @@ We conduct constant monitoring of our competitors. The idea of ​​the project
   \
   `Matrixbot` will have more functionality than most platforms and will focus on maximizing the profitability of bots. Great importance is given to the simplicity and convenience of the UI, in particular to monitoring the work of bots (a cursory glance anywhere on any device is enough). There are several killer features in the plans. We are also making an open architecture for connecting exchanges or trading services to our platform, there is no such offer on the market.
 
-
-
-
-
-
 </details>
 
 ### Team and partners
 
 <figure><img src=".gitbook/assets/Screenshot 2023-06-12 at 17.56.58.png" alt=""><figcaption></figcaption></figure>
 
-The core of a team of 5-6 developers, flexible, scalable infrastructure, with an emphasis on high load and speed. AWS Cloud Service Provider, Managed by Friend Partner (Amazon Certified).&#x20;
+The core of a team of 5-6 developers, flexible, scalable infrastructure, with an emphasis on high load and speed. AWS Cloud Service Provider, Managed by Friend Partner (Amazon Certified).
 
-### Financial Forecast&#x20;
+### Financial Forecast
 
 We plan to enter the market in Q2-Q3 2023. After attracting the first 50 customers, our platform will generate net profit. During the first year of the platform's operation, we plan to attract 3,000-5,000 customers, and by the third year - 100,000 customers. Our clients will also be able to earn money by using and selling trading bots.
 
 ### Project stage, social resources
 
-<figure><img src=".gitbook/assets/Screenshot 2023-06-12 at 18.03.08.png" alt=""><figcaption></figcaption></figure>
+{% embed url="https://youtu.be/Q1wL3q6MU_0?si=TOCNg98weJ8x7RN-" %}
 
 Beta version, closed testing. The minimum required functionality is working, undergoing closed testing, and work has begun on setting up a production loop for a release candidate. Channels are launched in Telegram, Youtube, Linked, Twitter.
 
 ### ROADMAP
 
-**1Q 2023**\
+**1Q 2024**\
 Build production environment\
 Start beta-testing
 
-**2Q 2023**\
+**2Q 2024**\
 Bybit integration\
 Binance Futures integration\
 Open `Marketplace`\
 Finish beta-testing
 
-**3Q 2023**\
+**3Q 2024**\
 Start Marketing program\
 Start adding planned killer-features
 
-**4Q 2023**\
+**4Q 2024**\
 New CEX, DEX integration
 
-**2024**\
+**2025**\
 AI, NFT, DeFi, Web 3.0 integration
