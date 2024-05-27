@@ -6,7 +6,7 @@ description: >-
 
 # Instructions for Bybit
 
-If you don't have a Bybit account yet, [use this link ](https://get.matrixbot.io/share-profit/bybit)to create an account and reduce your commission by 20%.
+If you don't have a Bybit account yet, [use this link ](https://get.matrixbot.io/share-profit/bybit)to create an account and reduce your commission by 10%.
 
 By default, Bybit opens a “unified account” account for its clients, so you need to create a sub-account in which to receive an API key to the Spot market. The fact is that API keys to “unified account” and “spot” are considered as keys to different markets.
 
