@@ -2,6 +2,7 @@
 
 * [🤖 Dashboard: страница мониторинга](README.md)
 * [🔑 Добавление API ключей биржи](dobavlenie-api-klyuchei-birzhi/README.md)
+  * [Инструкция для Binance](dobavlenie-api-klyuchei-birzhi/instrukciya-dlya-binance.md)
   * [Инструкция для Bybit](dobavlenie-api-klyuchei-birzhi/instrukciya-dlya-bybit.md)
 * [⚙️ Создание, редактирование бота](sozdanie-redaktirovanie-bota.md)
 * [⚪ MatrixBot.io Token (MTXB)](matrixbot.io-token-mtxb/README.md)
