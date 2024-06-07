@@ -34,7 +34,7 @@
 
 <div data-full-width="true">
 
-<figure><img src="../.gitbook/assets/roadmap_2024.png" alt=""><figcaption><p>Дорожная карта проекта на 2022-2025 год. Проект планомерно достигает поставленных целей</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/roadmap.png" alt=""><figcaption><p>Дорожная карта проекта на 2022-2025 год. Проект планомерно достигает поставленных целей</p></figcaption></figure>
 
 </div>
 
