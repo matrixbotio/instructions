@@ -1,6 +1,7 @@
 # Table of contents
 
-* [🤖 Dashboard: страница мониторинга](README.md)
+* [🪙 Как зарабатывать с MatrixBot](README.md)
+* [🤖 Dashboard: страница мониторинга](<README (1).md>)
 * [🔑 Добавление API ключей биржи](dobavlenie-api-klyuchei-birzhi/README.md)
   * [Инструкция для Binance](dobavlenie-api-klyuchei-birzhi/instrukciya-dlya-binance.md)
   * [Инструкция для Bybit](dobavlenie-api-klyuchei-birzhi/instrukciya-dlya-bybit.md)
