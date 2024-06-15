@@ -1,6 +1,7 @@
 # Table of contents
 
-* [🤖 Dashboard](README.md)
+* [🪙 How to Earn with MatrixBot](README.md)
+* [🤖 Dashboard](<README (1).md>)
 * [🔑 Adding exchange API keys](adding-exchange-api-keys/README.md)
   * [Instructions for Binance](adding-exchange-api-keys/instructions-for-binance.md)
   * [Instructions for Bybit](adding-exchange-api-keys/instructions-for-bybit.md)
