@@ -2,6 +2,7 @@
 
 * [🪙 Как зарабатывать с MatrixBot](README.md)
   * [Доходность на локе MTXB](kak-zarabatyvat-s-matrixbot/dokhodnost-na-loke-mtxb.md)
+  * [Партнерская программа](kak-zarabatyvat-s-matrixbot/partnerskaya-programma.md)
 * [🤖 Dashboard: страница мониторинга](<README (1).md>)
 * [🔑 Добавление API ключей биржи](dobavlenie-api-klyuchei-birzhi/README.md)
   * [Инструкция для Binance](dobavlenie-api-klyuchei-birzhi/instrukciya-dlya-binance.md)
