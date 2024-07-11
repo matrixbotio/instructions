@@ -9,13 +9,30 @@ description: Зарабатывай, продвигая MatrixBot
 1. Зарабатывать [**токены MTXB.**](../matrixbot.io-token-mtxb/)
 2. Зарабатывать **на % от комиссий**, которые платят пользователи.
 
+## Заработок токенов MTXB
+
 Чтобы зарабатывать токены MTXB на привлечении новых пользователей, необходимо перейти [в нашего Telegram бота](https://t.me/get\_matrixbot?start=help\_org\_ru) и прислать ему команду `/share`
 
 Тогда с каждого нового пользователя ты получишь токены, которые затем можно вывести на свой кошелек.
 
 <figure><img src="../.gitbook/assets/Screenshot_2024-07-11_14-35-40.png" alt="" width="371"><figcaption><p>пример ссылки</p></figcaption></figure>
 
-### Как зарабатывать % от комиссий
+## Как зарабатывать % от комиссий
+
+Приводя нового пользователя в MatrixBot, ты зарабатываешь % на основе всего:
+
+1. **Комиссии на доход** торговых ботов;
+2. **Комиссии с покупки и продажи ботов** на Маркете;
+3. Оформление **премиум-подписки**;
+4. Покупка **VIP-услуг**.
+
+**Преимущества работы с партнерской программой MatrixBot:**
+
+1. **Нет холда**, начисление заработка в режиме реального времени.
+2. **Легкие условия** по согласованию креативов (если создаешь свои рекламные материалы). Достаточно написать [менеджеру проекта](https://dzen.ru/away?to=https%3A%2F%2Ft.me%2Fmatrixbotio\_manager), если появились вопросы.
+3. **Нет посредников**, работа напрямую с проектом.
+
+<figure><img src="../.gitbook/assets/B1JqmxhNOkOx_egnFhzQPvrLs8zkRu5_Pjx-h0BepH2dvGYAI3hy5VoaOurNEG7Q3aI4p7WPp3kjxsP8hTQmcU8YZ9dVFSpG88OsYgAazmz3xrnIoB6iPHkieNQFErwowtUtHCM2LLc0Ezri0j9E88PWUdCFpIYEDMaKrY58ZjUofnD1cHkcbaTO1B1RKv454OWV2fdgknUxYEOUbTCqboqpZjokGSy-G3tFmYQTePTkwlvtmby0AATWso.jpeg" alt="" width="563"><figcaption></figcaption></figure>
 
 На сайте в разделе "Аккаунт" можно найти свои партнерские ссылки.
 
@@ -30,3 +47,7 @@ description: Зарабатывай, продвигая MatrixBot
 Для этого переходим к нашему Telegram боту и присылаем ему команду `/partner`
 
 <figure><img src="../.gitbook/assets/Screenshot_2024-07-11_14-39-21.png" alt="" width="368"><figcaption><p>пример ответа бота</p></figcaption></figure>
+
+## Важно! Что запрещается
+
+Запрещен спам и контекст на бренд (MatrixBot).
