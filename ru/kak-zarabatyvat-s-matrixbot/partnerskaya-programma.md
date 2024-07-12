@@ -29,7 +29,7 @@ description: Зарабатывай, продвигая MatrixBot
 **Преимущества работы с партнерской программой MatrixBot:**
 
 1. **Нет холда**, начисление заработка в режиме реального времени.
-2. **Легкие условия** по согласованию креативов (если создаешь свои рекламные материалы). Достаточно написать [менеджеру проекта](https://dzen.ru/away?to=https%3A%2F%2Ft.me%2Fmatrixbotio\_manager), если появились вопросы.
+2. **Легкие условия** по согласованию креативов (если создаешь свои рекламные материалы). Достаточно [написать менеджеру проекта](https://t.me/matrixbotio\_manager), если появились вопросы.
 3. **Нет посредников**, работа напрямую с проектом.
 
 <figure><img src="../.gitbook/assets/B1JqmxhNOkOx_egnFhzQPvrLs8zkRu5_Pjx-h0BepH2dvGYAI3hy5VoaOurNEG7Q3aI4p7WPp3kjxsP8hTQmcU8YZ9dVFSpG88OsYgAazmz3xrnIoB6iPHkieNQFErwowtUtHCM2LLc0Ezri0j9E88PWUdCFpIYEDMaKrY58ZjUofnD1cHkcbaTO1B1RKv454OWV2fdgknUxYEOUbTCqboqpZjokGSy-G3tFmYQTePTkwlvtmby0AATWso.jpeg" alt="" width="563"><figcaption></figcaption></figure>
