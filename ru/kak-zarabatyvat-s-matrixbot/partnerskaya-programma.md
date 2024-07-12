@@ -44,7 +44,7 @@ description: Зарабатывай, продвигая MatrixBot
 
 **Дополнительный способ получения ссылки на продвижение гайда.**
 
-Для этого переходим к нашему Telegram боту и присылаем ему команду `/partner`
+Для этого переходим [к нашему Telegram боту](https://t.me/get\_matrixbot?start=help\_org\_ru) и присылаем ему команду `/partner`
 
 <figure><img src="../.gitbook/assets/Screenshot_2024-07-11_14-39-21.png" alt="" width="368"><figcaption><p>пример ответа бота</p></figcaption></figure>
 
