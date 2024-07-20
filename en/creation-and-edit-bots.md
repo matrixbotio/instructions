@@ -2,6 +2,8 @@
 
 {% embed url="https://youtu.be/7jfVoK4MFk8" %}
 
+Got questions? [Check the FAQ](creation-and-edit-bots.md#faq).
+
 #### Long/Short&#x20;
 
 Type of trading strategy. In `Long` mode, the bot places buy orders from top to bottom as the price decreases. As the price falls, the bot buys at cheaper and cheaper prices. When the price reverses, the bot sets a take profit order with a specified % of `profit`. Then, the lap will be closed and it starts again. In `Short` mode, on the contrary, orders go up in ascending order as prices rise and gradually sell so that it can buy back all amounts later at a lower cost to earn profits.
@@ -95,3 +97,23 @@ Functionality will be added in future versions
 #### ☁️  Presets&#x20;
 
 For each configuration block you can save typical parameter sets and then load them later on.
+
+## FAQ:
+
+<details>
+
+<summary>If the bot is running and I change its settings, when will they take effect?</summary>
+
+The changes will take effect in the new cycle. That is, after the bot closes the Take Profit order and starts a new trading cycle.
+
+</details>
+
+<details>
+
+<summary>Why does the bot's profitability reset after changes?</summary>
+
+There are several parameters whose changes directly affect profitability, so it resets to allow the bot to recalculate it. This is necessary to display the current profitability for specific bot settings on the Market.
+
+Some parameters do not affect profitability, such as the bot's name, reinvest, and limit.
+
+</details>
