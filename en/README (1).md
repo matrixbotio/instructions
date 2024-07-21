@@ -88,3 +88,16 @@ Displays the current state of the bot:
 * Error – bot has stopped with an error, click to display error description. The stop button clears errors if bot is in error mode and does not plan to resume from where it left off. After reset, bot will begin a new lap after start.
 {% endhint %}
 
+<details>
+
+<summary>How does bot stopping work?</summary>
+
+If you press the bot stop button once, it will turn red, and the bot will enter a waiting mode to complete the current cycle and then stop.
+
+If the bot is in monitoring mode or waiting for indicators and no order has been executed, the bot will stop immediately.
+
+If you press the button again, you can stop the bot immediately, with or without canceling the orders.
+
+<img src=".gitbook/assets/stop_bot.jpg" alt="" data-size="original">
+
+</details>
