@@ -1,15 +1,3 @@
----
-description: 'In this section, we gather all the ways you can earn with our project:'
----
+# How to get started?
 
-# 🪙 How to Earn with MatrixBot
-
-1. **Buy a Ready-Made Bot** on the [Marketplace](https://matrixbot.io/market), launch it, and let it trade to earn.
-2. **Set Up Your Own Trading Bot** independently [using our instructions.](creation-and-edit-bots.md)
-3. **Buy** [**MTXB Tokens**](mtxb-token/) for speculation.
-4. **Coming Soon:** Lock your MTXB tokens and earn returns from trading.
-5. **Refer New Users** through [our affiliate program](how-to-earn-with-matrixbot/affiliate-program.md) and earn 20% of the commissions.
-6. **Earn MTXB Tokens** by referring new users to the [Telegram bot using your link.](https://t.me/matrixbotio\_eng/88)
-7. **Sell Your Bots** on the [Marketplace](https://matrixbot.io/market).
-8. **Participate in the** [**Bug Bounty**](https://t.me/matrixbotio\_eng/93) to help find bugs.
-9. **Be active** [**in our chat**](https://t.me/matrixbotio\_eng\_chat), talk about your trading experience with MatrixBot and receive rewards in MTXB.
+<table data-card-size="large" data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>MatrixBot AI</strong></td><td>Create a bot in just a few clicks using artificial intelligence.</td><td></td><td><a href=".gitbook/assets/ai_generate.jpg">ai_generate.jpg</a></td><td><a href="https://matrixbot.io/ai-bot">https://matrixbot.io/ai-bot</a></td></tr><tr><td><strong>Set up the bot yourself</strong></td><td>Use the instructions and guide for trading bots.</td><td></td><td><a href=".gitbook/assets/guide.jpg">guide.jpg</a></td><td><a href="creation-and-edit-bots.md">creation-and-edit-bots.md</a></td></tr><tr><td><strong>All ways to earn with MatrixBot</strong></td><td>Discover additional ways to earn with our project.</td><td></td><td><a href=".gitbook/assets/accept_mtxb.jpg">accept_mtxb.jpg</a></td><td><a href="README (2).md">README (2).md</a></td></tr><tr><td><strong>Market: a catalog of ready-made bots</strong></td><td>Choose a ready-made bot created by our users.</td><td></td><td><a href=".gitbook/assets/market_1.jpg">market_1.jpg</a></td><td><a href="https://matrixbot.io/market">https://matrixbot.io/market</a></td></tr></tbody></table>

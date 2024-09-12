@@ -1,6 +1,7 @@
 # Table of contents
 
-* [🪙 How to Earn with MatrixBot](README.md)
+* [How to get started?](README.md)
+* [🪙 How to Earn with MatrixBot](<README (2).md>)
   * [Affiliate program](how-to-earn-with-matrixbot/affiliate-program.md)
 * [🤖 Dashboard](<README (1).md>)
 * [🔑 Adding exchange API keys](adding-exchange-api-keys/README.md)
