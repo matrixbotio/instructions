@@ -1,8 +1,10 @@
 # Table of contents
 
-* [🪙 Как зарабатывать с MatrixBot](README.md)
+* [С чего начать?](README.md)
+* [🪙 Как зарабатывать с MatrixBot](<README (2).md>)
   * [Доходность на локе MTXB](kak-zarabatyvat-s-matrixbot/dokhodnost-na-loke-mtxb.md)
   * [Партнерская программа](kak-zarabatyvat-s-matrixbot/partnerskaya-programma.md)
+  * [Платим за статьи](kak-zarabatyvat-s-matrixbot/platim-za-stati.md)
 * [⚙️ Создание, редактирование бота](sozdanie-redaktirovanie-bota.md)
 * [🤖 Dashboard: страница мониторинга](<README (1).md>)
 * [🔑 Добавление API ключей биржи](dobavlenie-api-klyuchei-birzhi/README.md)
