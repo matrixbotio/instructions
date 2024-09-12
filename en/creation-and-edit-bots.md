@@ -2,6 +2,9 @@
 
 {% embed url="https://youtu.be/7jfVoK4MFk8" %}
 
+## Bot parameters
+
+A detailed guide to trading bots[ can be found here.](https://t.me/try\_en\_matrixbot)\
 Got questions? [Check the FAQ](creation-and-edit-bots.md#faq).
 
 #### Long/Short&#x20;
