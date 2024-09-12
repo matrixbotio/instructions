@@ -2,7 +2,10 @@
 
 {% embed url="https://youtu.be/yAJ27yOACec" %}
 
-#### Появились вопросы? [Смотри FAQ](sozdanie-redaktirovanie-bota.md#chastye-voprosy)
+Подробный гайд по торговым ботам [можно найти здесь.](https://t.me/try\_matrixbot)\
+Появились вопросы? [Смотри FAQ](sozdanie-redaktirovanie-bota.md#chastye-voprosy)
+
+## Параметры ботов
 
 #### Long / Short
 
@@ -118,3 +121,4 @@
 Некоторые параметры не влияют на доходность, например, имя бота, reinvest, limit.
 
 </details>
+
