@@ -19,6 +19,7 @@
     * [💻 Exodus на компьютере](matrixbot.io-token-mtxb/kak-dobavit-mtxb-token-v-koshelek-exodus/exodus-na-kompyutere.md)
     * [🌐 Exodus веб-расширение](matrixbot.io-token-mtxb/kak-dobavit-mtxb-token-v-koshelek-exodus/exodus-veb-rasshirenie.md)
 * [⚙️ Торговые индикаторы](indikatory.md)
+* [FAQ по ботам](faq-po-botam.md)
 
 ## Примеры настроек <a href="#settings" id="settings"></a>
 
