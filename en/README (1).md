@@ -22,9 +22,11 @@ Bot name, exchange and trading pair - clicking opens the chart on the exchange.
 
 #### Orders and price indicator
 
-![](<.gitbook/assets/image (6).png>)
+![](.gitbook/assets/bars.png)
 
-The number of segments corresponds to the number of orders bot `Orders`. Green segments represent unfulfilled orders, while red represents fulfilled ones. The length of each segment is the distance between `ARC` orders. A white triangle indicates the current take profit order position, while yellow shows the current price position. Percentage indicates profit/loss from executed orders.
+The number of segments corresponds to the number of orders bot `Orders`. Green segments represent unfulfilled orders, while red represents fulfilled ones. The length of each segment is the distance between `ARC` orders.
+
+A yellow triangle indicates the current take profit order position, while white shows the current price position. Percentage indicates profit/loss from executed orders.
 
 ![](<.gitbook/assets/image (8).png>)
 
