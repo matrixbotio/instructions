@@ -7,4 +7,4 @@ description: >-
 # 🔑 Добавление API ключей биржи
 
 1. [Инструкция для Binance.](instrukciya-dlya-binance.md)
-2. [Инструкция для биржи Bybit.](instrukciya-dlya-bybit.md)
+2. [Инструкция для биржи Bybit.](instrukciya-dlya-bybit-na-saite.md)
