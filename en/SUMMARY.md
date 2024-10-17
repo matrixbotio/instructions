@@ -7,7 +7,7 @@
 * [🤖 Dashboard](<README (1).md>)
 * [🔑 Adding exchange API keys](adding-exchange-api-keys/README.md)
   * [Instructions for Binance](adding-exchange-api-keys/instructions-for-binance.md)
-  * [Instructions for Bybit](adding-exchange-api-keys/instructions-for-bybit.md)
+  * [Instructions for Bybit (website)](adding-exchange-api-keys/instructions-for-bybit-website.md)
 * [⚙️ Creation and edit bots](creation-and-edit-bots.md)
 * [MTXB Token](mtxb-token/README.md)
   * [How to buy MTXB token on PancakeSwap](mtxb-token/how-to-buy-mtxb-token-on-pancakeswap.md)
