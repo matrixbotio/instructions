@@ -12,6 +12,7 @@
 * [MTXB Token](mtxb-token/README.md)
   * [How to buy MTXB token on PancakeSwap](mtxb-token/how-to-buy-mtxb-token-on-pancakeswap.md)
   * [How to make MTXB token visible in your wallet](mtxb-token/how-to-make-mtxb-token-visible-in-your-wallet.md)
+  * [How to add MTXB liquidity pool to Uniswap](mtxb-token/how-to-add-mtxb-liquidity-pool-to-uniswap.md)
 * [Bots FAQ](bots-faq/README.md)
   * [Error texts and what to do](bots-faq/error-texts-and-what-to-do.md)
 * [🔎 Indicators](indicators.md)
