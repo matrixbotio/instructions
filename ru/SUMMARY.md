@@ -18,6 +18,7 @@
     * [📱 Exodus на Android](matrixbot.io-token-mtxb/kak-dobavit-mtxb-token-v-koshelek-exodus/exodus-na-android.md)
     * [💻 Exodus на компьютере](matrixbot.io-token-mtxb/kak-dobavit-mtxb-token-v-koshelek-exodus/exodus-na-kompyutere.md)
     * [🌐 Exodus веб-расширение](matrixbot.io-token-mtxb/kak-dobavit-mtxb-token-v-koshelek-exodus/exodus-veb-rasshirenie.md)
+  * [Как добавить пул ликвидности MTXB в Uniswap](matrixbot.io-token-mtxb/kak-dobavit-pul-likvidnosti-mtxb-v-uniswap.md)
 * [⚙️ Торговые индикаторы](indikatory.md)
 * [FAQ по ботам](faq-po-botam/README.md)
   * [Тексты ошибок и что делать](faq-po-botam/teksty-oshibok-i-chto-delat.md)
