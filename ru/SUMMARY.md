@@ -10,6 +10,7 @@
 * [🔑 Добавление API ключей биржи](dobavlenie-api-klyuchei-birzhi/README.md)
   * [Инструкция для Binance](dobavlenie-api-klyuchei-birzhi/instrukciya-dlya-binance.md)
   * [Инструкция для Bybit (на сайте)](dobavlenie-api-klyuchei-birzhi/instrukciya-dlya-bybit-na-saite.md)
+  * [Инструкция по BingX](dobavlenie-api-klyuchei-birzhi/instrukciya-po-bingx.md)
 * [⚪ MatrixBot.io Token (MTXB)](matrixbot.io-token-mtxb/README.md)
   * [🪙 Как быстро купить MTXB](matrixbot.io-token-mtxb/kak-bystro-kupit-mtxb.md)
   * [🤖 Как купить MTXB на PancakeSwap (+видео)](matrixbot.io-token-mtxb/kak-kupit-mtxb-na-pancakeswap-+video.md)
