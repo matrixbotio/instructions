@@ -6,6 +6,7 @@
   * [We pay for articles](how-to-earn-with-matrixbot/we-pay-for-articles.md)
 * [🤖 Dashboard](<README (1).md>)
 * [🔑 Adding exchange API keys](adding-exchange-api-keys/README.md)
+  * [Instructions for BingX](adding-exchange-api-keys/instructions-for-bingx.md)
   * [Instructions for Binance](adding-exchange-api-keys/instructions-for-binance.md)
   * [Instructions for Bybit (website)](adding-exchange-api-keys/instructions-for-bybit-website.md)
 * [⚙️ Creation and edit bots](creation-and-edit-bots.md)
