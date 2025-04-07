@@ -36,4 +36,4 @@ You can check the key by clicking on the "Balance" button and see the balances o
 
 Great! The key has been added and you can [start creating the bot.](https://matrixbot.io/ai-bot)
 
-If you have any questions, [write to our chat.](https://t.me/matrixbotio_eng)
+If you have any questions, [write to our chat.](https://t.me/matrixbotio_eng_chat)
