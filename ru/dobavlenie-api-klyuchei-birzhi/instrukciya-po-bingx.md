@@ -4,7 +4,7 @@ description: Показываем, как создать API ключ на са�
 
 # Инструкция по BingX
 
-Если у тебя еще нет аккаунта на BingX, [создай его по этой ссылке.](https://bingx.com/invite/7HA007/)
+Если у тебя еще нет аккаунта на BingX, [создай его по этой ссылке.](https://get.matrixbot.io/share-profit/bingx)
 
 Шаг 1. [Откройте страницу управления](https://bingx.com/en/accounts/api/) API ключами.
 
