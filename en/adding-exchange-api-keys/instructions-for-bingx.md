@@ -4,7 +4,7 @@ description: We show how to create an API key on the BingX exchange website.
 
 # Instructions for BingX
 
-If you don't have a BingX account yet, [create one using this link.](https://bingx.com/invite/7HA007/)
+If you don't have a BingX account yet, [create one using this link.](https://get.matrixbot.io/share-profit/bingx)
 
 Step 1: [Open the API Keys management page.](https://bingx.com/en/accounts/api/)
 
